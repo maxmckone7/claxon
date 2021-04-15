@@ -7,6 +7,7 @@ A FLAC decoding library in Rust.
 [![Crates.io version][crate-img]][crate]
 [![Changelog][changelog-img]][changelog]
 [![Documentation][docs-img]][docs]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Fclaxon.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Fclaxon?ref=badge_shield)
 
 Claxon is a FLAC decoder written in pure Rust. It has been fuzzed and verified
 against the reference decoder for correctness. Its performance is similar to the
@@ -76,3 +77,7 @@ choice of license.
 [ref-flac]:      https://git.xiph.org/?p=flac.git
 [apache2]:       https://www.apache.org/licenses/LICENSE-2.0
 [except]:        https://www.gnu.org/licenses/gpl-faq.html#GPLIncompatibleLibs
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Fclaxon.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Fclaxon?ref=badge_large)
